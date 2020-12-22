@@ -38,12 +38,7 @@ It is extracted from the proceedings of the European Parliament. It includes ver
 
 This dataset is a multilingual, multi-style and multi-granularity dataset for cross-language textual similarity detection. More precisely, the characteristics of this dataset are the following:
 
-<ul>it is multilingual: French, English and Spanish</ul>
-<ul>it proposes cross-language alignment information at different granularities: document-level, sentence-level and chunk-level.</ul>
-<ul>it is based on both parallel and comparable corpora.it contains both human and machine translated text</ul>
-<ul>part of it has been altered (to make the cross-language similarity detection more complicated) while the rest remains without noise</ul>
-<ul>documents were written by multiple types of authors: from average to professionals</ul>
-<ul>From this we have used document-level data and pre processed it to remove punctuations.</ul>
+it is multilingual: French, English and Spanish. it proposes cross-language alignment information at different granularities: document-level, sentence-level and chunk-level. it is based on both parallel and comparable corpora.it contains both human and machine translated text. part of it has been altered (to make the cross-language similarity detection more complicated) while the rest remains without noise. documents were written by multiple types of authors: from average to professionals.From this we have used document-level data and pre processed it to remove punctuations.
 
 we have removed punctuation from the European Parliament Proceedings Parallel Corpus & Cross-language dataset using
 #### punct.py file
