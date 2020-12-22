@@ -53,3 +53,22 @@ we have removed punctuation from the European Parliament Proceedings Parallel Co
 
 https://drive.google.com/drive/folders/1Yn49FGTnYU16KHsqZbbEQDNCYlk8IdLG?usp=sharing
 
+### Implimentation
+
+## The main libraries which we have used are as follows:
+
+<ul> gensim 3.8.3 </ul>
+<ul> keras 2.4.3 </ul>
+<ul> numpy 1.18.5 </ul>
+<ul> sci-kit learn 0.22.2 </ul>
+
+We gave a language code to each of the 5 languages we are using, i.e. ‘en’ for English, ‘de’ for German, ‘fr’ for French, ‘it’ for Italian and ‘es’ for Spanish.
+Then we mapped each language code to their respective training data.
+
+### References
+
+<ul> https://dumps.wikimedia.org/backup-index.html </ul>
+<ul> http://www.statmt.org/europarl/ Europarl: A Parallel Corpus for Statistical Machine Translation. Conference Proceedings: the tenth Machine Translation Summit </ul>
+<ul> https://github.com/FerreroJeremy/Cross-Language-Dataset CrossLanguageDatasetLREC2016,A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection, my Ferrero and Frederic Agnes and Laurent Besacier and Didier Schwab, The 10th edition of the Language Resources and Evaluation Conference (LREC 2016) </ul>
+
+
