@@ -43,6 +43,8 @@ it is multilingual: French, English and Spanish. it proposes cross-language alig
 we have removed punctuation from the European Parliament Proceedings Parallel Corpus & Cross-language dataset using
 #### punct.py file
 
+Use length.py file to check the length of text files.
+
 
 ### Download the dataset from here:=
 
