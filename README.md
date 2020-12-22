@@ -66,5 +66,6 @@ Then we mapped each language code to their respective training data.
 <li> https://dumps.wikimedia.org/backup-index.html </li>
 <li> http://www.statmt.org/europarl/ Europarl: A Parallel Corpus for Statistical Machine Translation. Conference Proceedings: the tenth Machine Translation Summit </li>
 <li> https://github.com/FerreroJeremy/Cross-Language-Dataset CrossLanguageDatasetLREC2016,A Multilingual, Multi-Style and Multi-Granularity Dataset for Cross-Language Textual Similarity Detection, my Ferrero and Frederic Agnes and Laurent Besacier and Didier Schwab, The 10th edition of the Language Resources and Evaluation Conference (LREC 2016) </li>
+<li> https://javadeveloperzone.com/machine-learning/language-detection-neural-network/</li>
 
 
