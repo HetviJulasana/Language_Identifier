@@ -26,6 +26,9 @@ We have gathered the required dataset from 3 different sources.
 
 Wikipedia is taking a backup of all of it's content at https://dumps.wikimedia.org/ so it is our main data source. It contains a complete copy of all Wikimedia wikis, in the form of wiki text source and metadata embedded in XML. Files are provided in bzipped(bz2) xml format. It has already punctuations removed.
 
+For the dataset from Wikipedia dumps we need not preprocess the data,we extract the data from .XML files using the <h2> </h2>
+
+
 ### [2] European Parliament Proceedings Parallel Corpus 1996-2011: 
 
 It is extracted from the proceedings of the European Parliament. It includes versions in 21 European language. We preprocessed the data to remove punctuations. All the files are provided in .tgz format.
