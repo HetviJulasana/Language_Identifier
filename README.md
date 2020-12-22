@@ -57,13 +57,13 @@ https://drive.google.com/drive/folders/1Yn49FGTnYU16KHsqZbbEQDNCYlk8IdLG?usp=sha
 
 ## The main libraries which we have used are as follows:
 
-<li> gensim 3.8.3 </li>
-<li> keras 2.4.3 </li>
-<li> numpy 1.18.5 </li>
-<li> sci-kit learn 0.22.2 </li>
+<li> gensim == 3.8.3 </li>
+<li> keras == 2.4.3 </li>
+<li> numpy == 1.18.5 </li>
+<li> scikit == 0.22.2 </li>
 
-We gave a language code to each of the 5 languages we are using, i.e. ‘en’ for English, ‘de’ for German, ‘fr’ for French, ‘it’ for Italian and ‘es’ for Spanish.
-Then we mapped each language code to their respective training data.
+<li>We gave a language code to each of the 5 languages we are using, i.e. ‘en’ for English, ‘de’ for German, ‘fr’ for French, ‘it’ for Italian and ‘es’ for Spanish.
+Then we mapped each language code to their respective training data.</li>
 
 ### References
 
