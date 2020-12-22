@@ -57,6 +57,7 @@ https://drive.google.com/drive/folders/1Yn49FGTnYU16KHsqZbbEQDNCYlk8IdLG?usp=sha
 <li> numpy == 1.18.5 </li>
 <li> scikit == 0.22.2 </li>
 
+
 We gave a language code to each of the 5 languages we are using, i.e. ‘en’ for English, ‘de’ for German, ‘fr’ for French, ‘it’ for Italian and ‘es’ for Spanish.
 Then we mapped each language code to their respective training data.
 
