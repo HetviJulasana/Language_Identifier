@@ -1,5 +1,5 @@
 
-data_dir = r'E:\msc AI\SEM - III\Project\NLP project\data_dir'
+data_dir = r'E:\msc\semIII\NLP project\Language_Identifier\data_dir'
 # Select to articles from file
 num_of_articles = 10000
 # Maximum sequence length
